@@ -1,10 +1,11 @@
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=8000FF&width=435&lines=Olá,+pessoal!;Eu+sou+Thiago!;Prazer+em+conhece-los!;&center=true&size=22"></p>
 <p align="center">
-  <img src="./A_digital_illustration_personalized_banner_showcas.png" alt="Thiago Igor Banner" />
+  <img src="./ChatGPT Image 21 de mai. de 2025, 20_28_19.png" alt="Thiago Igor Banner" width="400" />
 </p>
 
-# 👾 Thiago Igor
+# 👾 Thiago "KeKo" Igor
 
-🎮 Futuro desenvolvedor apaixonado por tecnologia, games e cultura geek.
+🎮 Futuro desenvolvedor, apaixonado por tecnologia, games e cultura geek.
 
 ## 🧰 Tecnologias e Ferramentas que estudo atualmente:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -13,10 +14,12 @@
 
 
 ## 🌌 Sobre Mim:
+- 🌎 Recife, PE - Brasil (Várzea, o melhor cantinho da cidade❤️)
 - 👨‍💻 Aprendendo mais a cada dia sobre programação.
 - 🕹️ Gamer nas horas vagas.
-- 👽 Fascinado por series de investigação policial, amante da tecnologia e inovação.
+- 👽 Estilo preferido de series: investigação policial, comedia.
 - 🤓 As vezes otaku.
+  
  
 ## 📫 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-igor-a28078182/)
@@ -25,4 +28,4 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/414775187246940173)
 ---
 
-🧠 *“A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”* — Albert Einstein
+🧠 <strong>*“A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”* — Albert Einstein<strong>
