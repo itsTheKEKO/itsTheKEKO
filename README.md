@@ -1,4 +1,4 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=8000FF&width=435&lines=Olá,+pessoal!;Eu+sou+Thiago!;Prazer+em+conhece-los!;&center=true&size=22"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=8000FF&width=435&lines=Olá,+pessoal!;Bem+vindos!;Eu+sou+Thiago!;Prazer+em+conhece-los!;&center=true&size=19"></p>
 <p align="center">
   <img src="./ChatGPT Image 21 de mai. de 2025, 20_28_19.png" alt="Thiago Igor Banner" width="400" />
 </p>
